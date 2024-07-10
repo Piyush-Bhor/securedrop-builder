@@ -11,3 +11,4 @@ setuptools==54.0.0 --hash=sha256:d55810b08ce4cef4d4e354e4fc1013c435abf3a9712daa4
 setuptools-scm==5.0.2 --hash=sha256:96d120093688708a75155802077cc3fefd4352b2b5e30386821e86bbc4c8c402
 toml==0.10.2 --hash=sha256:931471fdf4a532e4095922de7eb81ef13da584d91af4f93e2e7284b29f56a65b
 wheel==0.36.2 --hash=sha256:870fcd67bd55da8e73be17468e970d365ad926ac9c5fee0e00ad778019c579d9
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
